@@ -31,6 +31,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_TOPIC_ID: ${{ secrets.TELEGRAM_TOPIC_ID }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python - << 'EOF'
@@ -47,6 +48,7 @@ jobs:
 
           BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
           CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
+          TOPIC_ID = os.environ.get("TELEGRAM_TOPIC_ID")
           GH_TOKEN = os.environ.get("GH_TOKEN")
 
           REPO = "FiorenMas/Revanced-And-Revanced-Extended-Non-Root"
@@ -462,7 +464,7 @@ jobs:
           print(f"Total assets found in tag '{TAG}': {total_assets}")
 
           # -------------------------------------------------------------
-          # 8. Telegram Notification Helper
+          # 8. Telegram Notification Helper (Supports Topics & Normal Chats)
           # -------------------------------------------------------------
           def send_telegram_message(text):
               url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
@@ -472,6 +474,11 @@ jobs:
                   "parse_mode": "HTML",
                   "disable_web_page_preview": True
               }
+
+              # Send to specific topic thread if configured
+              if TOPIC_ID and TOPIC_ID.strip():
+                  payload["message_thread_id"] = int(TOPIC_ID.strip())
+
               for _ in range(3):
                   res = requests.post(url, json=payload)
                   if res.status_code == 429:
@@ -506,6 +513,7 @@ jobs:
               prev_updated = entry.get("updated_at") if isinstance(entry, dict) else None
               cached_pkg = entry.get("package") if isinstance(entry, dict) else None
 
+              # Skip cached / already released files
               if prev_hash and prev_updated == updated_at:
                   print(f"\n{progress_prefix}")
                   print(f"App: {name}")
