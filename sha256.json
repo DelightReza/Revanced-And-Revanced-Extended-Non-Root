@@ -948,14 +948,14 @@
         "version": "20.40.45"
     },
     "youtube-beta-anddea.apk": {
-        "sha256": "fdf639d487b3c9b4e3864067970f84c4e3ef9a9266ed3b7781d1f43852989e81",
-        "updated_at": "2026-10-30T18:06:06Z",
+        "sha256": "728f8da3d97d7d4154c46733111b56b9760637f7c498aac8dea28e780aa4fb37",
+        "updated_at": "2026-11-03T18:12:44Z",
         "package": "anddea.youtube",
         "version": "21.13.164"
     },
     "youtube-beta-arm64-v8a-anddea.apk": {
-        "sha256": "d0aa5d09fe0e5ec1b19cceceed75c22fc374601c58ffbcc6cdfae89cd9ef4166",
-        "updated_at": "2026-10-30T18:05:59Z",
+        "sha256": "1ad4d78a62d74d8b4557a9a1eeee6b38b91134a322bba64b2c86097392a17a8e",
+        "updated_at": "2026-11-03T18:12:36Z",
         "package": "anddea.youtube",
         "version": "21.13.164"
     },
@@ -978,8 +978,8 @@
         "version": "21.09.266"
     },
     "youtube-beta-armeabi-v7a-anddea.apk": {
-        "sha256": "f869169deb61389f3cf20ec8b34933e4fb3da4eafc64202913c381caf87de327",
-        "updated_at": "2026-10-30T18:05:53Z",
+        "sha256": "ba3bb7d0d7e1c8295faa4bb4c675a3346793994498b0799c2fa1402ce4abb860",
+        "updated_at": "2026-11-03T18:12:28Z",
         "package": "anddea.youtube",
         "version": "21.13.164"
     },
@@ -1044,8 +1044,8 @@
         "version": "21.09.266"
     },
     "youtube-beta-x86-anddea.apk": {
-        "sha256": "5f4038452273b1682b12c60811e779d2950bb370e3a0c269593fba5c6518833f",
-        "updated_at": "2026-10-30T18:05:49Z",
+        "sha256": "bdf49b14c32d287ac11b4fc7f4b41d016061b46146d3ea66fd3681c3c1ff89e1",
+        "updated_at": "2026-11-03T18:12:23Z",
         "package": "anddea.youtube",
         "version": "21.13.164"
     },
@@ -1068,8 +1068,8 @@
         "version": "21.09.266"
     },
     "youtube-beta-x86_64-anddea.apk": {
-        "sha256": "34ff646a2c9eeef2b76c167e63e7c02c570522cab70ff8c1ec854321ea210ef9",
-        "updated_at": "2026-10-30T18:05:43Z",
+        "sha256": "6ead16925ac634fb10fda23f6e84105a9a2c979561c53d623ce78e7989bd7d4d",
+        "updated_at": "2026-11-03T18:12:17Z",
         "package": "anddea.youtube",
         "version": "21.13.164"
     },
@@ -1218,8 +1218,8 @@
         "version": "8.40.54"
     },
     "youtube-music-beta-arm64-v8a-anddea.apk": {
-        "sha256": "ac2b357312aabc35558e134afbc157b75b7a49f60c75e60c88606026faa8eefa",
-        "updated_at": "2026-10-30T18:05:14Z",
+        "sha256": "773e96f1a73724c24a11f95c54794827f2fd31b567459d1712dca216240f6d0a",
+        "updated_at": "2026-11-03T18:11:19Z",
         "package": "anddea.youtube.music",
         "version": "9.15.51"
     },
@@ -1242,8 +1242,8 @@
         "version": "9.08.51"
     },
     "youtube-music-beta-armeabi-v7a-anddea.apk": {
-        "sha256": "4e1a96b2e9c65aec0392ccce21f1b5a7b08e01fa7cd6c4734d65b1f10eaf725d",
-        "updated_at": "2026-10-30T18:05:10Z",
+        "sha256": "ac0eee465f6dc7391887a041546898e05741715fbb8f9dfc71ffca78d24bfdea",
+        "updated_at": "2026-11-03T18:11:15Z",
         "package": "anddea.youtube.music",
         "version": "9.15.51"
     },
@@ -1266,8 +1266,8 @@
         "version": "9.08.51"
     },
     "youtube-music-beta-x86-anddea.apk": {
-        "sha256": "9fb7f831e0bd936fc3a9d01de2ffc7e7f0f8e3cbb7d1fce0b4eb5d8aa3692989",
-        "updated_at": "2026-10-30T18:05:07Z",
+        "sha256": "a47a51d2dd2500e963bce8f0b73e2e72dd88bfff047323976cb38eccb8b40842",
+        "updated_at": "2026-11-03T18:11:12Z",
         "package": "anddea.youtube.music",
         "version": "9.15.51"
     },
@@ -1290,8 +1290,8 @@
         "version": "9.08.51"
     },
     "youtube-music-beta-x86_64-anddea.apk": {
-        "sha256": "0f9696b5ed0e515d7057e8789eb3b9e0f52f44c0b52f75c6e0a8b69ff451964d",
-        "updated_at": "2026-10-30T18:05:03Z",
+        "sha256": "4e40ec668bf05a02703126bfa05877f6ad0901b9d1643bab76646559fbdbd6c6",
+        "updated_at": "2026-11-03T18:11:05Z",
         "package": "anddea.youtube.music",
         "version": "9.15.51"
     },
