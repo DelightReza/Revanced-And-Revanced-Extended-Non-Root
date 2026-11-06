@@ -90,8 +90,8 @@
         "version": "585.0.0.47.54"
     },
     "facebook-arm64-v8a-hushfacebook.apk": {
-        "sha256": "a9840cc42b5b33794cf2a627c251cca214f6f6bc3ec24c18f289a7ce965f76a3",
-        "updated_at": "2026-11-01T09:06:15Z",
+        "sha256": "673603d3a8775337974ba5d3bb58e379878eacf6cb790a4e882367682f37dd6d",
+        "updated_at": "2026-11-06T09:06:53Z",
         "package": "com.facebook.katana",
         "version": "585.0.0.47.54"
     },
@@ -336,10 +336,10 @@
         "version": "8.47.0"
     },
     "pinterest-browzomje.apk": {
-        "sha256": "60d4406e6c6f05dff3d66020be0312b33b915b53ee491968c54275b3bc6132cc",
-        "updated_at": "2026-10-26T13:44:52Z",
+        "sha256": "dcc253eb252231b813458d0608ba1d6359b753715e926b974409dd995b2a9768",
+        "updated_at": "2026-11-06T09:05:51Z",
         "package": "com.pinterest",
-        "version": "14.39.0"
+        "version": "14.43.0"
     },
     "pixiv-beta-revanced.apk": {
         "sha256": "8b1db2da0746adb87e40dfa8cbcf9928e1b3862ec357d2389dc7e68ec3693408",
@@ -432,8 +432,8 @@
         "version": "7.20.build129"
     },
     "reddit-arm64-v8a-beta-morphe.apk": {
-        "sha256": "645509519a4f7b75ec598db22d30037b7efa3d91b50183f6d4301408ddb4292a",
-        "updated_at": "2026-11-05T09:11:53Z",
+        "sha256": "a724f72da81ae99155bfc4fcd2af476c89c88cf998c03c830978a085cd772859",
+        "updated_at": "2026-11-06T13:16:13Z",
         "package": "com.reddit.frontpage",
         "version": "2026.43.0"
     },
@@ -474,8 +474,8 @@
         "version": "2026.09.0"
     },
     "reddit-beta-morphe.apk": {
-        "sha256": "f44d7daac50d8af6cc2e6982f01b1e07662de973a4905f5bb7d8e1e9155fb41b",
-        "updated_at": "2026-11-05T09:11:47Z",
+        "sha256": "1b58fe6900e94f4b6d5865874e66fdcf0b9d841667a18941a8a7eb2aa4970499",
+        "updated_at": "2026-11-06T13:16:09Z",
         "package": "com.reddit.frontpage",
         "version": "2026.43.0"
     },
@@ -822,10 +822,10 @@
         "version": "12.19.1-release.0"
     },
     "twitter-piko-newx.apk": {
-        "sha256": "a1fb6527a0c20b22543bcdff922f1930cfdd4f4da9cfa92563fc1168d0256311",
-        "updated_at": "2026-11-02T08:34:12Z",
+        "sha256": "15104088018c842686fffcffb17e2a5f4ce123c8a4e940bf446a3efc6ad47e47",
+        "updated_at": "2026-11-06T09:05:55Z",
         "package": "com.twitter.android",
-        "version": "12.39.0-prod.01"
+        "version": "12.40.1-prod.01"
     },
     "twitter-piko-x-shim.apk": {
         "sha256": "39cd70c02d680bd61294cfb0cd19e5aef8175f6c7b2cb36104fb5f286f457f0a",
@@ -960,8 +960,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-arm64-v8a-morphe.apk": {
-        "sha256": "5bc3ae1ea4ae875a91b5b7aae4b902cf96826bf9122458bd533a15de08f1cf83",
-        "updated_at": "2026-11-05T09:08:41Z",
+        "sha256": "f6d58540e7521241f10fce60718e2e25149c3815a4ff863156e2271f3b2f0fa7",
+        "updated_at": "2026-11-06T13:17:06Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -984,8 +984,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-armeabi-v7a-morphe.apk": {
-        "sha256": "b91ff5b86fc18659406c14c77e68065b6037c626c9b98d655e3a85443b90e50d",
-        "updated_at": "2026-11-05T09:08:33Z",
+        "sha256": "f4d1d087e9a6a116e8620b15e2415cbec86e3d23b57526ac297ef6e9503c58f7",
+        "updated_at": "2026-11-06T13:16:57Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -1014,8 +1014,8 @@
         "version": "N/A"
     },
     "youtube-beta-morphe.apk": {
-        "sha256": "4b2ec8db0528970c21505ccff34d5616fb67ecdf35a2f6b01ac2d14a2af4cf48",
-        "updated_at": "2026-11-05T09:08:27Z",
+        "sha256": "88964773296c66f383cd431090bb3521eac5fa92d62c3cc33713b58752647539",
+        "updated_at": "2026-11-06T13:16:52Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -1050,8 +1050,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-x86-morphe.apk": {
-        "sha256": "9fc7b577ff839993824fc92b4e748cad8663ac594353143da6b285e5ba51715f",
-        "updated_at": "2026-11-05T09:08:13Z",
+        "sha256": "738a3be50448e4870587d8ed2fd76bd47ed2531bd402c650df75c93c9e8e6d2a",
+        "updated_at": "2026-11-06T13:16:34Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -1074,8 +1074,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-x86_64-morphe.apk": {
-        "sha256": "97c32ceea6a61468b5aefe4a2c3572c26ec2f945589353a18980bd68ac5b5bf4",
-        "updated_at": "2026-11-05T09:07:58Z",
+        "sha256": "f448997ae297b0637f3b2040454e350585a1c022dea1a0f8aa43f0b30566ad7a",
+        "updated_at": "2026-11-06T13:16:26Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -1224,8 +1224,8 @@
         "version": "9.15.51"
     },
     "youtube-music-beta-arm64-v8a-morphe.apk": {
-        "sha256": "cf5e5ad0a8def501348f9e29f58155718d40b64561854ee94f300851c167bfee",
-        "updated_at": "2026-11-05T09:05:50Z",
+        "sha256": "5ab257ce572ce7fe3cf4323c1738a54e80f19b29d32eb167ebe6c854e793a6f7",
+        "updated_at": "2026-11-06T13:14:54Z",
         "package": "app.morphe.android.apps.youtube.music",
         "version": "9.44.52"
     },
