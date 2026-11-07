@@ -432,10 +432,10 @@
         "version": "7.20.build129"
     },
     "reddit-arm64-v8a-beta-morphe.apk": {
-        "sha256": "a724f72da81ae99155bfc4fcd2af476c89c88cf998c03c830978a085cd772859",
-        "updated_at": "2026-11-06T13:16:13Z",
+        "sha256": "327d99e91ff8f7802671e19f5bc4dac18e7e362eded57700d641766a197cb503",
+        "updated_at": "2026-11-07T09:09:55Z",
         "package": "com.reddit.frontpage",
-        "version": "2026.43.0"
+        "version": "2026.45.0"
     },
     "reddit-arm64-v8a-beta-revanced-extended.apk": {
         "sha256": "e3cbd2cfb5a69319f87e46114c2fc59db939646a1a7c803f3ffa8d7db2fa6722",
@@ -474,10 +474,10 @@
         "version": "2026.09.0"
     },
     "reddit-beta-morphe.apk": {
-        "sha256": "1b58fe6900e94f4b6d5865874e66fdcf0b9d841667a18941a8a7eb2aa4970499",
-        "updated_at": "2026-11-06T13:16:09Z",
+        "sha256": "c7c10ae654d4b8409ae854816857cc52c4761b2339c92dd412e04729037300eb",
+        "updated_at": "2026-11-07T09:09:51Z",
         "package": "com.reddit.frontpage",
-        "version": "2026.43.0"
+        "version": "2026.45.0"
     },
     "reddit-beta-revanced-extended.apk": {
         "sha256": "68179c1ba8bb4fdc73328bf5fecb9c9ec0f614288217c0acb54db09a4dc9bc2e",
@@ -960,8 +960,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-arm64-v8a-morphe.apk": {
-        "sha256": "f6d58540e7521241f10fce60718e2e25149c3815a4ff863156e2271f3b2f0fa7",
-        "updated_at": "2026-11-06T13:17:06Z",
+        "sha256": "fb2ebd3193e75953e07090c08c1ec367358f778952b39d227d95e03b8619f19a",
+        "updated_at": "2026-11-07T09:11:15Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -984,8 +984,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-armeabi-v7a-morphe.apk": {
-        "sha256": "f4d1d087e9a6a116e8620b15e2415cbec86e3d23b57526ac297ef6e9503c58f7",
-        "updated_at": "2026-11-06T13:16:57Z",
+        "sha256": "f63036e0337216fe02c02e4df6770ab5dcd2a5d2955bad9a5ca92a84ab1d4a16",
+        "updated_at": "2026-11-07T09:11:08Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -1014,8 +1014,8 @@
         "version": "21.39.522"
     },
     "youtube-beta-morphe.apk": {
-        "sha256": "88964773296c66f383cd431090bb3521eac5fa92d62c3cc33713b58752647539",
-        "updated_at": "2026-11-06T13:16:52Z",
+        "sha256": "34e20134599477eb6ac94e430f0fcecae8781be9afcc43027cbb1c5b80923180",
+        "updated_at": "2026-11-07T09:11:02Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -1050,8 +1050,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-x86-morphe.apk": {
-        "sha256": "738a3be50448e4870587d8ed2fd76bd47ed2531bd402c650df75c93c9e8e6d2a",
-        "updated_at": "2026-11-06T13:16:34Z",
+        "sha256": "099c75ec8414b015b7157d7fdf604054ae593d6ae9be59a6193b92db559d9b93",
+        "updated_at": "2026-11-07T09:10:48Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -1074,8 +1074,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-x86_64-morphe.apk": {
-        "sha256": "f448997ae297b0637f3b2040454e350585a1c022dea1a0f8aa43f0b30566ad7a",
-        "updated_at": "2026-11-06T13:16:26Z",
+        "sha256": "8a04ffb9b7aef6d82a1c10599ec69bbaed29c550b477ecab2019d5590eb3a2e8",
+        "updated_at": "2026-11-07T09:10:39Z",
         "package": "app.morphe.android.youtube",
         "version": "21.44.523-BETA"
     },
@@ -1224,10 +1224,10 @@
         "version": "9.15.51"
     },
     "youtube-music-beta-arm64-v8a-morphe.apk": {
-        "sha256": "5ab257ce572ce7fe3cf4323c1738a54e80f19b29d32eb167ebe6c854e793a6f7",
-        "updated_at": "2026-11-06T13:14:54Z",
+        "sha256": "d12c28cf555d745c722270ba5e2a8eaba7a2766f6e67e0c39f182e391ebfce1c",
+        "updated_at": "2026-11-07T09:08:41Z",
         "package": "app.morphe.android.apps.youtube.music",
-        "version": "9.44.52"
+        "version": "9.45.51"
     },
     "youtube-music-beta-arm64-v8a-revanced-extended.apk": {
         "sha256": "fd4c7bb9f6a3f6f2a395663f773af7c185d8c3bf9e4c0d68baac23911c091c20",
