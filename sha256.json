@@ -234,8 +234,8 @@
         "version": "271.1.0.21.84"
     },
     "instagram-beta-arm64-v8a-piko.apk": {
-        "sha256": "81f7f0a0db08ac2996f6616330a20efe4f9c20581c8ba1c77e5c4f42b5ac2bc5",
-        "updated_at": "2026-11-02T08:34:12Z",
+        "sha256": "549886dbc710919fdba391a98eda898c37a6afd8bcf3c22e29f3b5393eca91b2",
+        "updated_at": "2026-11-07T17:33:23Z",
         "package": "com.instagram.android",
         "version": "452.1.0.53.64"
     },
@@ -816,8 +816,8 @@
         "version": "12.7.1-release.0"
     },
     "twitter-beta-piko.apk": {
-        "sha256": "fade80c641ce0aea55a9761d3ce46a8d20b836aeb8118929ef400380e09b0e0d",
-        "updated_at": "2026-11-02T08:34:05Z",
+        "sha256": "dfc8d8b6739e032ecf7befe4b13e208c784fa99940427561b63a7de98a7a740e",
+        "updated_at": "2026-11-07T17:33:17Z",
         "package": "com.twitter.android",
         "version": "12.19.1-release.0"
     },
