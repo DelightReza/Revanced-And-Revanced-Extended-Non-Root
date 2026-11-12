@@ -42,10 +42,10 @@
         "version": "7.20.0.2606230000"
     },
     "discord-revenge.apk": {
-        "sha256": "959be691e8d1c0b00326a6b5e28fe988500c0e1b3d5f1ecbe1cbd0a8f5f86319",
-        "updated_at": "2026-11-01T09:43:44Z",
+        "sha256": "675ee996d21da6d7e5f40415cbbc441eba863f10b88a010af18b8569f8e75cbb",
+        "updated_at": "2026-11-11T19:52:41Z",
         "package": "com.discord",
-        "version": "351.11 - Stable"
+        "version": "353.11 - Stable"
     },
     "duolingo-beta-revanced.apk": {
         "sha256": "da63b56f1fb4113a8220881cae943a2d6593657f51b17bf34441d699a866bc9d",
@@ -84,10 +84,10 @@
         "version": "580.0.0.51.74"
     },
     "facebook-arm64-v8a-gnadgnaoh.apk": {
-        "sha256": "3fd915c19c17a4461258f91f94be8dd6c73fa0080117b9abd0a091fea1fddab1",
-        "updated_at": "2026-11-01T09:45:22Z",
+        "sha256": "d33e1c5e09ee44ffa3f853308de9a61394c434681d6762e3cb666da8af967b54",
+        "updated_at": "2026-11-11T19:53:38Z",
         "package": "com.facebook.katana",
-        "version": "585.0.0.47.54"
+        "version": "586.0.0.52.53"
     },
     "facebook-arm64-v8a-hushfacebook.apk": {
         "sha256": "673603d3a8775337974ba5d3bb58e379878eacf6cb790a4e882367682f37dd6d",
@@ -204,10 +204,10 @@
         "version": "401.0.0.48.79"
     },
     "instagram-arm64-v8a-gnadgnaoh.apk": {
-        "sha256": "920ac2ee17d285be9762e0bc7ab420bfad2ce07aa9e8860287691a667f3dc3af",
-        "updated_at": "2026-11-01T09:45:30Z",
+        "sha256": "595d6851d43077b12d72481db8da077218c0709c7c39047eaf7f4cc1ff790289",
+        "updated_at": "2026-11-11T19:54:15Z",
         "package": "com.instagram.android",
-        "version": "453.0.0.57.79"
+        "version": "455.0.0.51.72"
     },
     "instagram-arm64-v8a-piko.apk": {
         "sha256": "965ef8aa271c882d2152d874e192925f48b2b729fd444d742df8d9019150ef76",
@@ -276,10 +276,10 @@
         "version": "586.0.0.55.92"
     },
     "messenger-arm64-v8a-gnadgnaoh.apk": {
-        "sha256": "fb52bc82f7f46fb7937ae108cd5da13b2153cf3b6a821e2b8c945b8ad329c738",
-        "updated_at": "2026-11-01T09:45:10Z",
+        "sha256": "4a3daa7ac999e32701bbd3e3ca8fa3c5b249b55daba7bf94601976ee791834c7",
+        "updated_at": "2026-11-11T19:53:28Z",
         "package": "com.facebook.orca",
-        "version": "585.0.0.53.94"
+        "version": "587.0.0.54.96"
     },
     "messenger-arm64-v8a-revanced.apk": {
         "sha256": "f9bf64fd053d0eb2f958b0541ba30a37797d2a4d986f913f15bb4ac12449f124",
@@ -630,10 +630,10 @@
         "version": "453.0.0.56.79"
     },
     "threads-arm64-v8a-gnadgnaoh.apk": {
-        "sha256": "42f772b477690f1b01e2907f9d48aceedb17f34ed71a7563cb17c15ac3ecb27f",
-        "updated_at": "2026-11-01T09:45:21Z",
+        "sha256": "8c6d2f14537720d9122d8ed41406ac1b477c790d12c432cc034aaddc542e2e65",
+        "updated_at": "2026-11-11T19:54:04Z",
         "package": "com.instagram.barcelona",
-        "version": "453.0.0.56.79"
+        "version": "455.0.0.55.72"
     },
     "threads-arm64-v8a-revanced.apk": {
         "sha256": "29151e0a514ca69f1b10780aa7b4141a8bd23cdb8c8db09b300f710a752d6d1d",
@@ -660,8 +660,8 @@
         "version": "46.9.3"
     },
     "tiktok-asian-gnadgnaoh.apk": {
-        "sha256": "17500d934570f6e8bbdf8415135ee627b75bd33e017398fa08c5ea696f45531f",
-        "updated_at": "2026-11-01T09:44:06Z",
+        "sha256": "cb508947f02699df223073acffb576349d9fed47a69191d5631cb92301c9f74f",
+        "updated_at": "2026-11-11T19:52:29Z",
         "package": "com.ss.android.ugc.trill",
         "version": "46.9.3"
     },
@@ -684,10 +684,10 @@
         "version": "47.6.3"
     },
     "tiktok-gnadgnaoh.apk": {
-        "sha256": "54e86cc714e4087c3915e1b8d82476de112c3c576ee3ae078a86bf7c601f11de",
-        "updated_at": "2026-11-01T09:43:50Z",
+        "sha256": "57cbfc74f934fe4c26e97bb0b0aedcf41c97841b83b83dda887cbcc5983d2415",
+        "updated_at": "2026-11-11T19:52:13Z",
         "package": "com.zhiliaoapp.musically",
-        "version": "47.6.3"
+        "version": "47.7.3"
     },
     "tiktok-icysymmetra.apk": {
         "sha256": "b26aa1ab130812fb5e182ad5cce0ae9f4069f41723c2c63e43c0a96faf4d5afd",
@@ -1506,8 +1506,8 @@
         "version": "20.40.45"
     },
     "zalo-gnadgnaoh.apk": {
-        "sha256": "8fb49981abeadbee2e012b66ed3f3acf7ccead844f32f1c6124a8750ce58d4fb",
-        "updated_at": "2026-11-01T09:43:03Z",
+        "sha256": "1337ac73125202990b76e5ca38b33f42e2df1d46689a2420dfeae59d6c9d5f42",
+        "updated_at": "2026-11-11T19:51:25Z",
         "package": "com.zing.zalo",
         "version": "26.10.02"
     }
