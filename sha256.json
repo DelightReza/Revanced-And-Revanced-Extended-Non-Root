@@ -432,8 +432,8 @@
         "version": "7.20.build129"
     },
     "reddit-arm64-v8a-beta-morphe.apk": {
-        "sha256": "2ecb78942f32e610706ad438b3696fa1a58a2dea5769635b9dd8a7f07c0b3419",
-        "updated_at": "2026-11-11T11:03:16Z",
+        "sha256": "804d3e964cdc21971fa81c15d85a1c5c5afc3d47849b2234e774622730113eec",
+        "updated_at": "2026-11-12T14:04:19Z",
         "package": "com.reddit.frontpage",
         "version": "2026.45.0"
     },
@@ -474,8 +474,8 @@
         "version": "2026.09.0"
     },
     "reddit-beta-morphe.apk": {
-        "sha256": "03250af1995473249c07c671666706fb5e7fa3a00dc440ef9afce30b76a19016",
-        "updated_at": "2026-11-11T11:03:13Z",
+        "sha256": "758bba84a66474b7f63c7b919e5004aff9d15097e2eb55996918a06e8ec74ff2",
+        "updated_at": "2026-11-12T14:04:14Z",
         "package": "com.reddit.frontpage",
         "version": "2026.45.0"
     },
@@ -690,8 +690,8 @@
         "version": "47.7.3"
     },
     "tiktok-icysymmetra.apk": {
-        "sha256": "b26aa1ab130812fb5e182ad5cce0ae9f4069f41723c2c63e43c0a96faf4d5afd",
-        "updated_at": "2026-11-10T13:03:27Z",
+        "sha256": "cc715a31accbd3c7e0c709db92449f69dfbc4b8d27a00d35998e1f780d6038cf",
+        "updated_at": "2026-11-12T09:06:06Z",
         "package": "com.zhiliaoapp.musically",
         "version": "47.4.3"
     },
@@ -960,8 +960,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-arm64-v8a-morphe.apk": {
-        "sha256": "6708764fa5fcbf91e38de0d58995d0aa5c5e50b97f7d53f5ef618f504bd241fd",
-        "updated_at": "2026-11-11T11:04:54Z",
+        "sha256": "0a73e7bec358931459322d6ec998f45c7d9c074181b2ecbd38471b9f778eb3df",
+        "updated_at": "2026-11-12T14:05:21Z",
         "package": "app.morphe.android.youtube",
         "version": "21.45.82"
     },
@@ -984,8 +984,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-armeabi-v7a-morphe.apk": {
-        "sha256": "4322486fbe7997e5bf9c232bf3062284523d0abba9e19f704a299941b20a6671",
-        "updated_at": "2026-11-11T11:04:48Z",
+        "sha256": "a34f08298cd278c1c25b50d6acf27cf7f0a5ec0ed86c9f8dd8fcb1f252b9d48b",
+        "updated_at": "2026-11-12T14:05:13Z",
         "package": "app.morphe.android.youtube",
         "version": "21.45.82"
     },
@@ -1014,8 +1014,8 @@
         "version": "21.39.522"
     },
     "youtube-beta-morphe.apk": {
-        "sha256": "b2824752062ec7cb37e8dbf2e59ea51ab31e9fc4dd7c7117a9a63ef6c93061ae",
-        "updated_at": "2026-11-11T11:04:36Z",
+        "sha256": "8d36b70d104d3809be13c74075209ce3fe78371d2c79c6edb53d24b1b506203b",
+        "updated_at": "2026-11-12T14:05:07Z",
         "package": "app.morphe.android.youtube",
         "version": "21.45.82"
     },
@@ -1050,8 +1050,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-x86-morphe.apk": {
-        "sha256": "7d3132ac3118d5f8649e079a9eced3466f88cb27c4551ac10f09a36c94862f57",
-        "updated_at": "2026-11-11T11:04:20Z",
+        "sha256": "06cc3892e623451c86d870290394e3caecadaf45c5f920c79f81e2be9bee8bfc",
+        "updated_at": "2026-11-12T14:04:51Z",
         "package": "app.morphe.android.youtube",
         "version": "21.45.82"
     },
@@ -1074,8 +1074,8 @@
         "version": "21.13.164"
     },
     "youtube-beta-x86_64-morphe.apk": {
-        "sha256": "090c4bf326b6e0aee15a287fedb5add094d5ed0810be88185a2dc75b8b61b4b8",
-        "updated_at": "2026-11-11T11:04:13Z",
+        "sha256": "0b7131ca94b5fc406d077760648f4666a972c8c363ead37e43f2e4fad0792cf8",
+        "updated_at": "2026-11-12T14:04:44Z",
         "package": "app.morphe.android.youtube",
         "version": "21.45.82"
     },
@@ -1224,8 +1224,8 @@
         "version": "9.15.51"
     },
     "youtube-music-beta-arm64-v8a-morphe.apk": {
-        "sha256": "00ea801ecd9c8abfbe77b3e0261c56466a5687e8f0158ff860ca1fdf94b2eaf1",
-        "updated_at": "2026-11-11T11:02:23Z",
+        "sha256": "cea9493511488b1b9dd9d2cb030c97a0a11738e306d2aacbfca979b81e69e7c4",
+        "updated_at": "2026-11-12T14:03:12Z",
         "package": "app.morphe.android.apps.youtube.music",
         "version": "9.45.51"
     },
