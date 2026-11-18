@@ -234,8 +234,8 @@
         "version": "271.1.0.21.84"
     },
     "instagram-beta-arm64-v8a-piko.apk": {
-        "sha256": "47e759f5e7a9205d8dfa502af040e6f2e68e0caeaa8e468faa664fd9146b74e0",
-        "updated_at": "2026-11-17T14:15:53Z",
+        "sha256": "ae02748551353030a6cea74af5cd52dfc1397ca0c448a66e7b5723f47341020e",
+        "updated_at": "2026-11-17T19:27:22Z",
         "package": "com.instagram.android",
         "version": "452.1.0.53.64"
     },
