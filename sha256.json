@@ -235,7 +235,7 @@
     },
     "instagram-beta-arm64-v8a-piko.apk": {
         "sha256": "ae02748551353030a6cea74af5cd52dfc1397ca0c448a66e7b5723f47341020e",
-        "updated_at": "2026-11-18T14:57:34Z",
+        "updated_at": "2026-11-19T03:27:00Z",
         "package": "com.instagram.android",
         "version": "452.1.0.53.64"
     },
@@ -336,8 +336,8 @@
         "version": "8.47.0"
     },
     "pinterest-browzomje.apk": {
-        "sha256": "36c30b17713d3174b3a34a977f2fe9e38d51e343b698dbcb2e2d24aef94acc67",
-        "updated_at": "2026-11-18T03:40:06Z",
+        "sha256": "0cb0cee6b1b5b47721d986f054a4680731187cfafdded9fd6264b148658cf038",
+        "updated_at": "2026-11-19T03:26:58Z",
         "package": "com.pinterest",
         "version": "14.44.0"
     },
