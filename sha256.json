@@ -234,10 +234,10 @@
         "version": "271.1.0.21.84"
     },
     "instagram-beta-arm64-v8a-piko.apk": {
-        "sha256": "cb446ce46ef44bf8cb282d2bee5eb4258796946d692c439397115def4f8e9c0d",
-        "updated_at": "2026-11-20T19:51:58Z",
+        "sha256": "83c75434cf1f7a27340e47cb01980a441f19570b01dcb2eab0821df7176891fd",
+        "updated_at": "2026-11-21T09:04:31Z",
         "package": "com.instagram.android",
-        "version": "452.1.0.53.64"
+        "version": "456.0.0.53.78"
     },
     "instagram-clone-instafel.apk": {
         "sha256": "69da7600e8797c73bcb9b47b8a323e77dcbd65364f62ba799d3c3a468e7f196a",
