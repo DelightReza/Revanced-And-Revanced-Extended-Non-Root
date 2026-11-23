@@ -604,12 +604,12 @@
   },
   "instagram-beta-arm64-v8a-piko.apk": {
     "app": "Instagram Beta",
-    "date": "2026-11-23T03:24:30Z",
+    "date": "2026-11-23T05:32:56Z",
     "file": "instagram-beta-arm64-v8a-piko.apk",
     "mod": "Piko",
     "package": "com.instagram.android",
     "posted": true,
-    "sha256": "81d50cad5f02c32f066d0adc2c093ac6cfeaa7cfe0cbd78b20b6c3a5030d1ff3",
+    "sha256": "cba9cd3aadb1b08ed5eafad4c60632815d3aa7b8859f686df220e6fd35dd114b",
     "size": 186540892,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-beta-arm64-v8a-piko.apk",
@@ -2036,17 +2036,17 @@
   },
   "twitter-beta-piko.apk": {
     "app": "Twitter Beta",
-    "date": "2026-11-16T12:04:02Z",
+    "date": "2026-11-23T05:33:00Z",
     "file": "twitter-beta-piko.apk",
     "mod": "Piko",
     "package": "com.twitter.android",
     "posted": true,
-    "sha256": "1b7e49287cf56ed0c9d7729cb587fbba184572bd238057982a6dc0da7186aba2",
-    "size": 275225078,
+    "sha256": "ced6e2a9bd4a097182c5bab99c140de910befe5a9a6bfdd8c5d5dd753d108db6",
+    "size": 199114351,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-beta-piko.apk",
     "variant": "All Architectures",
-    "version": "12.19.1-release.0"
+    "version": "12.43.0-prod.01"
   },
   "twitter-piko-newx.apk": {
     "app": "Twitter",
