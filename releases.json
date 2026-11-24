@@ -55,6 +55,20 @@
     "variant": "All Architectures",
     "version": "4.14.68"
   },
+  "amazon-shopping-rushiranpise.apk": {
+    "app": "Amazon Shopping",
+    "date": "2026-11-24T07:50:21Z",
+    "file": "amazon-shopping-rushiranpise.apk",
+    "mod": "rushiranpise",
+    "package": "com.amazon.mShop.android.shopping",
+    "posted": true,
+    "sha256": "e168333b4a891e2904e5ae6a8c1a798ecd6d4a3c39bcd64bc3868688616d93e9",
+    "size": 181204864,
+    "status": "active",
+    "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/amazon-shopping-rushiranpise.apk",
+    "variant": "All Architectures",
+    "version": "32.19.0.100"
+  },
   "battery-guru-arandomhooman.apk": {
     "app": "Battery Guru",
     "date": "2026-11-22T22:32:29Z",
@@ -152,6 +166,20 @@
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/discord-revenge.apk",
     "variant": "All Architectures",
     "version": "353.11 - Stable"
+  },
+  "discord-venus.apk": {
+    "app": "Discord",
+    "date": "2026-11-24T06:57:28Z",
+    "file": "discord-venus.apk",
+    "mod": "Venus",
+    "package": "com.discord",
+    "posted": true,
+    "sha256": "174d280acb2405a35f6e64fdf024fa57597d9dae203bdd8ffeac1cb8340b3cdb",
+    "size": 405531034,
+    "status": "active",
+    "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/discord-venus.apk",
+    "variant": "All Architectures",
+    "version": "351.11 - Stable"
   },
   "duolingo-beta-revanced.apk": {
     "app": "Duolingo Beta",
@@ -1054,13 +1082,13 @@
   },
   "reddit-arm64-v8a-beta-morphe.apk": {
     "app": "Reddit Beta",
-    "date": "2026-11-23T10:45:12Z",
+    "date": "2026-11-24T09:57:10Z",
     "file": "reddit-arm64-v8a-beta-morphe.apk",
     "mod": "Morphe",
     "package": "com.reddit.frontpage",
     "posted": true,
-    "sha256": "9b0055b6229f87abbd56cf71f66670ba0513709f2367613c6d4417b57d3c04c4",
-    "size": 91421599,
+    "sha256": "89a989248a43b4ae9492730bececc0a7e6dbe1ee2fe367678e5310785363b36b",
+    "size": 91458463,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-arm64-v8a-beta-morphe.apk",
     "variant": "Arm64-v8a",
@@ -1166,13 +1194,13 @@
   },
   "reddit-beta-morphe.apk": {
     "app": "Reddit Beta",
-    "date": "2026-11-23T10:45:07Z",
+    "date": "2026-11-24T09:57:07Z",
     "file": "reddit-beta-morphe.apk",
     "mod": "Morphe",
     "package": "com.reddit.frontpage",
     "posted": true,
-    "sha256": "02b250cbeb1989a8946cf73f45ffc5a7663b90471b817388207d41862c2e15eb",
-    "size": 112308860,
+    "sha256": "7930426eb9763acc87c712fd0644e4c263f6f58e4b963138a9387f73a68bfbe1",
+    "size": 112345724,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-beta-morphe.apk",
     "variant": "All Architectures",
@@ -2430,17 +2458,17 @@
   },
   "youtube-beta-arm64-v8a-morphe.apk": {
     "app": "YouTube Beta",
-    "date": "2026-11-23T10:46:37Z",
+    "date": "2026-11-24T09:58:20Z",
     "file": "youtube-beta-arm64-v8a-morphe.apk",
     "mod": "Morphe",
     "package": "app.morphe.android.youtube",
     "posted": true,
-    "sha256": "a9fc4041257f09b59abf460317d9d836de96120c12a1d3880fac3351d64d4670",
-    "size": 150466405,
+    "sha256": "82d5adcfebc748e60bb1b28a76bcb86e0202950eee4c6bf7f591ada80c304fd5",
+    "size": 151632779,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-arm64-v8a-morphe.apk",
     "variant": "Arm64-v8a",
-    "version": "21.46.522"
+    "version": "21.47.483"
   },
   "youtube-beta-arm64-v8a-revanced-extended.apk": {
     "app": "YouTube Beta",
@@ -2486,17 +2514,17 @@
   },
   "youtube-beta-armeabi-v7a-morphe.apk": {
     "app": "YouTube Beta",
-    "date": "2026-11-23T10:46:30Z",
+    "date": "2026-11-24T09:58:15Z",
     "file": "youtube-beta-armeabi-v7a-morphe.apk",
     "mod": "Morphe",
     "package": "app.morphe.android.youtube",
     "posted": true,
-    "sha256": "4d9e510e9471ca11b7c9300c850f33f8c8ecb1e2c1e2989c01aa0991d9d0c0c6",
-    "size": 128188337,
+    "sha256": "cd76769c28f3697a9bd4239e4ab849de962723c3eb0b4cca2f9a63855262f440",
+    "size": 129108951,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-armeabi-v7a-morphe.apk",
     "variant": "Armeabi-v7a",
-    "version": "21.46.522"
+    "version": "21.47.483"
   },
   "youtube-beta-armeabi-v7a-revanced-extended.apk": {
     "app": "YouTube Beta",
@@ -2556,17 +2584,17 @@
   },
   "youtube-beta-morphe.apk": {
     "app": "YouTube Beta",
-    "date": "2026-11-23T10:46:24Z",
+    "date": "2026-11-24T09:58:11Z",
     "file": "youtube-beta-morphe.apk",
     "mod": "Morphe",
     "package": "app.morphe.android.youtube",
     "posted": true,
-    "sha256": "f42ee71635a3a9af37a9c9cbb4a5f7cfe656de1cdd65701a6490bc87c5982cac",
-    "size": 404263554,
+    "sha256": "a24bc6377165f7a867946f82c9bd7bb9554950a6f001255a1cd04b3b2e2c2b08",
+    "size": 407199400,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-morphe.apk",
     "variant": "All Architectures",
-    "version": "21.46.522"
+    "version": "21.47.483"
   },
   "youtube-beta-music-arm64-v8a-revanced-extended.apk": {
     "app": "YouTube Beta",
@@ -2640,17 +2668,17 @@
   },
   "youtube-beta-x86-morphe.apk": {
     "app": "YouTube Beta",
-    "date": "2026-11-23T10:46:09Z",
+    "date": "2026-11-24T09:57:58Z",
     "file": "youtube-beta-x86-morphe.apk",
     "mod": "Morphe",
     "package": "app.morphe.android.youtube",
     "posted": true,
-    "sha256": "18a2987ff8528da6792f20a562fce69e34dcedfa055fdb7d07a4357d3e37badf",
-    "size": 173522561,
+    "sha256": "beda18e3325916a92bdab791748e7b6383380b0bb4864c940fd3dd65f8d53c84",
+    "size": 174951079,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-x86-morphe.apk",
     "variant": "x86",
-    "version": "21.46.522"
+    "version": "21.47.483"
   },
   "youtube-beta-x86-revanced-extended.apk": {
     "app": "YouTube Beta",
@@ -2696,17 +2724,17 @@
   },
   "youtube-beta-x86_64-morphe.apk": {
     "app": "YouTube Beta",
-    "date": "2026-11-23T10:45:59Z",
+    "date": "2026-11-24T09:57:52Z",
     "file": "youtube-beta-x86_64-morphe.apk",
     "mod": "Morphe",
     "package": "app.morphe.android.youtube",
     "posted": true,
-    "sha256": "a2be8f7a2fc3aa165f358d9f171455400625ca1db3089995a4ecc780f081cd86",
-    "size": 163868403,
+    "sha256": "0a131e6502ae7f1bf8c62ec09c5146898cf49edb7e9b67cd97e202b275ae7490",
+    "size": 165116697,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-x86_64-morphe.apk",
     "variant": "x86_64",
-    "version": "21.46.522"
+    "version": "21.47.483"
   },
   "youtube-beta-x86_64-revanced-extended.apk": {
     "app": "YouTube Beta",
@@ -3060,17 +3088,17 @@
   },
   "youtube-music-beta-arm64-v8a-morphe.apk": {
     "app": "YouTube Music Beta",
-    "date": "2026-11-23T10:44:23Z",
+    "date": "2026-11-24T09:56:18Z",
     "file": "youtube-music-beta-arm64-v8a-morphe.apk",
     "mod": "Morphe",
     "package": "app.morphe.android.apps.youtube.music",
     "posted": true,
-    "sha256": "53529d309fa65da904b16f4c7dba69fcf2aa5edcfaa0bc8b321626f94a3d9dac",
-    "size": 87415400,
+    "sha256": "58462b92ed94c0fb26adcd1cbd646d3cc03c6835999d49b929c15c140e8643c3",
+    "size": 85109226,
     "status": "active",
     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-beta-arm64-v8a-morphe.apk",
     "variant": "Arm64-v8a",
-    "version": "9.46.51"
+    "version": "9.47.51"
   },
   "youtube-music-beta-arm64-v8a-revanced-extended.apk": {
     "app": "YouTube Music Beta",

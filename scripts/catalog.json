@@ -398,6 +398,13 @@
       "match": [
         "bilibili"
       ]
+    },
+    {
+      "name": "Amazon Shopping",
+      "package": "com.amazon.mShop.android.shopping",
+      "match": [
+        "amazon-shopping"
+      ]
     }
   ],
   "mods": [
@@ -568,6 +575,12 @@
       "name": "Instafel",
       "match": [
         "instafel"
+      ]
+    },
+    {
+      "name": "Venus",
+      "match": [
+        "venus"
       ]
     }
   ]
